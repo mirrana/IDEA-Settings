@@ -1,0 +1,5 @@
+<application>
+  <component name="TerminalOptionsProvider">
+    <option name="myShellPath" value="&quot;C:\cygwin64\bin\bash.exe&quot; -c &quot;exec /usr/bin/env INTELLIJ=true $SHELL --login -i" />
+  </component>
+</application>
