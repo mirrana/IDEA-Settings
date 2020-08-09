@@ -1,7 +1,0 @@
-<templateSet group="RESTful Web Services">
-  <template name="cxf" value="$ServiceInterfaceName$ service = org.apache.cxf.jaxrs.client.JAXRSClientFactory.create(&quot;$ServiceUrl$&quot;, $ServiceInterfaceName$.class);&#10;           String out = service.getClichedMessage();&#10;           System.out.println(&quot;service response was: &quot; + out);" description="Generate CXF Rest web service invocation" toReformat="true" toShortenFQNames="false" deactivated="true">
-    <variable name="ServiceInterfaceName" expression="annotated(&quot;javax.ws.rs.Path&quot;)" defaultValue="&quot;MyServiceName&quot;" alwaysStopAt="true" />
-    <variable name="ServiceUrl" expression="&quot;http://localhost:8080/cxfrestsample&quot;" defaultValue="&quot;http://localhost:8080/cxfrestsample&quot;" alwaysStopAt="true" />
-    <context />
-  </template>
-</templateSet>

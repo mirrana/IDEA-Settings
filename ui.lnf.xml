@@ -1,6 +1,8 @@
 <application>
   <component name="UISettings">
     <option name="EDITOR_TAB_LIMIT" value="99" />
+    <option name="MAX_LOOKUP_LIST_HEIGHT" value="31" />
     <option name="MERGE_EQUAL_STACKTRACES" value="false" />
+    <option name="RECENT_FILES_LIMIT" value="99" />
   </component>
 </application>

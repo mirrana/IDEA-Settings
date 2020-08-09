@@ -2,18 +2,31 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.css</mask>
     <mask>*.html</mask>
-    <mask>*.xml</mask>
     <mask>*.jsp</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
     <mask>*.properties</mask>
+    <mask>install.xml</mask>
+    <mask>build.xml</mask>
+    <mask>!*.sql, !*.xml</mask>
     <mask>!*.sql</mask>
-    <mask>*.sql</mask>
-    <mask>*.java</mask>
-    <mask>!*sql</mask>
-    <mask>*java</mask>
+    <mask>target</mask>
     <mask>*sql</mask>
-    <mask>*xsd</mask>
+    <mask>*java</mask>
+    <mask>!*sql</mask>
+    <mask>*.xml</mask>
+    <mask>*.java, *.sql</mask>
+    <mask>*.sql</mask>
+    <mask>!*.java</mask>
+    <mask>*.xsd</mask>
+    <mask>*.java</mask>
   </component>
 </application>

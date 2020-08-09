@@ -1,5 +1,11 @@
 <application>
   <component name="ParameterNameHintsSettings">
-    <blacklists />
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="java.util.Objects.requireNonNull(obj,message)" />
+        <added pattern="net.compusult.wes.sync.controller.entitygenerators.EntityGenerator._getEntityMetadata(conn,tableName,idColumn,creatorColumn)" />
+      </blacklist>
+    </blacklists>
+    <option id="sql.show.column.names.in.insert.values" value="true" />
   </component>
 </application>

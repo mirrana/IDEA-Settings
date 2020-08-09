@@ -1,25 +1,31 @@
 <application>
   <component name="CodeInsightSettings">
-    <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
-    <EXCLUDED_PACKAGE NAME="com.sasAll" />
+    <EXCLUDED_PACKAGE NAME="GIAS" />
+    <EXCLUDED_PACKAGE NAME="PS" />
+    <EXCLUDED_PACKAGE NAME="UID" />
+    <EXCLUDED_PACKAGE NAME="com.sasAll.sasAll_TypeInfo" />
     <EXCLUDED_PACKAGE NAME="net.compusult.wes.server.Collections.collections_xml_app" />
     <EXCLUDED_PACKAGE NAME="net.opengis" />
+    <EXCLUDED_PACKAGE NAME="net.opengis.ogc.wfs._1_1_0_.wfs_TypeInfo" />
+    <EXCLUDED_PACKAGE NAME="org.omg.CORBA._AbstractInterfaceDefStub" />
+    <EXCLUDED_PACKAGE NAME="org.omg.DynamicAny" />
   </component>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="16" />
+    <option name="FONT_SIZE" value="14" />
     <option name="USE_LIGATURES" value="true" />
+    <option name="SECONDARY_FONT_FAMILY" value="Fira Code" />
   </component>
   <component name="EditorSettings">
-    <option name="STRIP_TRAILING_SPACES" value="None" />
+    <option name="USE_SOFT_WRAPS" value="" />
     <option name="ENABLE_RENDERED_DOC" value="true" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
-    <pattern icon="important" useCustomColors="true" pattern="\bfixme\b.*">
-      <option name="FOREGROUND" value="c06ca7" />
-      <option name="FONT_TYPE" value="3" />
-      <option name="EFFECT_COLOR" value="c06ca7" />
-      <option name="ERROR_STRIPE_COLOR" value="c06ca7" />
+    <pattern useCustomColors="true" pattern="\bfixme\b.*">
+      <option name="FOREGROUND" value="dd0003" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="ERROR_STRIPE_COLOR" value="977ab" />
     </pattern>
+    <pattern pattern="\bxxx\b.*" />
   </component>
 </application>

@@ -1,3 +1,3 @@
 /**
- * @author Sarah Skanes
+ * @author Chris Babstock &lt;cbabstock@compusult.net&gt;
  */

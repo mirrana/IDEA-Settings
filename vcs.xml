@@ -3,66 +3,6 @@
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
-          <option name="url" value="https://sarah_skanes@bitbucket.org/sarah_skanes/controlsfx" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://agent154@bitbucket.org/agent154/controlsfx" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="ssh://hg@bitbucket.org/agent154/controlsfx" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="ssh://garfield.cs.mun.ca/~theo/students/repos/teamh" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="ssh://u15cb@garfield.cs.mun.ca/~theo/students/repos/teamh" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/thoyles/code-drop.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://www.cs.mun.ca/cgi-bin/user-cgi/~theo/auth/git/cs4770/teamh.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://www.cs.mun.ca" />
-          <option name="userName" value="u15cb" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://gitlab.abopu.com" />
-          <option name="userName" value="sarah" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/nguillaumin/jflac.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/journeyapps/zxing-android-embedded.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/jexenberger/lambda-tuples.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="git@github.com:mirrana/flac.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/mirrana/flac.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/thom-nic/WOL-Proxy.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
           <option name="url" value="https://gitlab.abopu.com/sarah/mylittlebooru.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
@@ -71,45 +11,23 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://gitlab.abopu.com/sarah/financialplanner.git" />
+          <option name="url" value="https://sarah@gitlab.abopu.com/sarah/financialplanner.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="http://gitlab.com" />
-          <option name="userName" value="mirrana@abopu.com" />
+          <option name="url" value="ssh://cbabstock@git.compusult.net/gitroot/Liferay7_WESPortfolios" />
+          <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="http://github.com" />
-          <option name="userName" value="mirrana@abopu.com" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/nayuki/FLAC-library-Java.git" />
+          <option name="url" value="https://github.com/spring-guides/tut-spring-boot-kotlin.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\Projects\JDK" />
-  </component>
-  <component name="HgRememberedInputs">
-    <option name="visitedUrls">
-      <list>
-        <UrlAndUserName>
-          <option name="url" value="ssh://hg@bitbucket.org/agent154/controlsfx" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://agent154@bitbucket.org/agent154/controlsfx" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://agent154@bitbucket.org/agent154/controlsfx-2" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-      </list>
-    </option>
-    <option name="cloneParentDir" value="Q:\Software Development\007 Projects" />
+    <option name="cloneParentDir" value="D:\Projects\!personal" />
   </component>
   <component name="Vcs.Log.App.Settings">
+    <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
     <option name="COLUMN_ORDER">
       <list>
         <option value="0" />
@@ -120,6 +38,7 @@
     </option>
   </component>
   <component name="VcsApplicationSettings">
+    <option name="PATCH_STORAGE_LOCATION" value="d:/" />
     <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
   </component>
 </application>
