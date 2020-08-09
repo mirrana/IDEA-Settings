@@ -2,7 +2,7 @@
   <component name="LocalDatabaseDriverManager" version="163">
     <driver id="azure.ms">
       <artifact name="SQL Server" use="true" />
-      <option name="auto-sync" value="true" />
+      <option name="auto-sync" value="false" />
       <option name="send-app-info" value="false" />
     </driver>
     <driver id="db2">
@@ -62,23 +62,17 @@
     <driver id="mysql">
       <artifact name="MySQL Connector/J" use="true" />
       <option name="auto-sync" value="true" />
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/mysql-connector-license.txt</url>
+      </library>
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/mysql-connector-java-5.1.35-bin.jar</url>
+      </library>
     </driver>
     <driver id="oracle">
       <artifact name="Oracle" use="true" />
       <option name="auto-sync" value="false" />
       <option name="auto-commit" value="false" />
-      <library>
-        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/oracle-driver-license.txt</url>
-      </library>
-      <library>
-        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/xdb6-12.1.0.2.jar</url>
-      </library>
-      <library>
-        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/xmlparserv2.jar</url>
-      </library>
-      <library>
-        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/ojdbc6-12.1.0.2.jar</url>
-      </library>
     </driver>
     <driver id="postgresql">
       <artifact name="PostgreSQL" use="true" version="42.2.5" />
@@ -113,22 +107,18 @@
         <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/xerial-sqlite-license.txt</url>
       </library>
       <library>
-        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/sqlite-jdbc-3.8.11.2.jar</url>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/sqlite-jdbc-3.8.9.jar</url>
       </library>
     </driver>
     <driver id="sqlserver.ms">
-      <artifact name="SQL Server" use="true" version="7.4.1" />
-      <option name="auto-sync" value="true" />
+      <artifact name="SQL Server" use="true" />
+      <option name="auto-sync" value="false" />
       <option name="send-app-info" value="false" />
-      <option name="auto-commit" value="true" />
-      <option name="schema-control" value="AUTOMATIC" />
-      <option name="format-sources-on-sync" value="true" />
-      <option name="source-loading" value="USER_SOURCES" />
-      <library>
-        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/sqlserver-driver-license.txt</url>
-      </library>
       <library>
         <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/sqlserver-win-auth.jar</url>
+      </library>
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/sqlserver-driver-license.txt</url>
       </library>
       <library>
         <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/sqljdbc4-4.0.2206.100.jar</url>
@@ -136,14 +126,14 @@
     </driver>
     <driver id="sqlserver.jtds">
       <artifact name="jTDS (SQL Server and Sybase)" use="true" />
-      <option name="auto-sync" value="true" />
+      <option name="auto-sync" value="false" />
     </driver>
     <driver id="sybase.jtds">
       <artifact name="jTDS (SQL Server and Sybase)" use="true" />
-      <option name="auto-sync" value="true" />
+      <option name="auto-sync" value="false" />
     </driver>
     <driver id="sybase.ase">
-      <option name="auto-sync" value="true" />
+      <option name="auto-sync" value="false" />
     </driver>
     <driver id="exasol">
       <artifact name="Exasol" use="true" />
@@ -167,10 +157,6 @@
     </driver>
     <driver id="snowflake">
       <artifact name="Snowflake" use="true" />
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="mongo">
-      <artifact name="MongoDB" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
   </component>

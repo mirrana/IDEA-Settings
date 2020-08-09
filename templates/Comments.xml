@@ -1,0 +1,13 @@
+<templateSet group="Comments">
+  <template name="sh" value="/***************************************************************************&#10; *&#10; * $TITLE$&#10; *&#10; **************************************************************************/&#10;" description="Header" toReformat="false" toShortenFQNames="true">
+    <variable name="TITLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="aut" value="@author Sarah Skanes &amp;lt;agent154@abopu.com&amp;gt;" description="Javadoc @author" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_COMMENT" value="true" />
+    </context>
+  </template>
+</templateSet>

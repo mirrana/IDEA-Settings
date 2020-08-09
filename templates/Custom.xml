@@ -1,15 +1,4 @@
 <templateSet group="Custom">
-  <template name="aut" value="@author Chris Babstock &amp;lt;cbabstock@compusult.net&amp;gt;" description="javadoc author tag" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="JAVA_COMMENT" value="true" />
-    </context>
-  </template>
-  <template name="sh" value="/***************************************************************************&#10; *&#10; * $text$&#10; *&#10; **************************************************************************/" description="Section Header" toReformat="false" toShortenFQNames="true">
-    <variable name="text" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_DECLARATION" value="true" />
-    </context>
-  </template>
   <template name="rnn" value="net.compusult.wes.restricted.util.ObjectHelper.verifyNotNull($VAR$, &quot;$VAR$&quot;)" description="require non-null" toReformat="false" toShortenFQNames="true">
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -18,23 +7,10 @@
       <option name="KOTLIN_EXPRESSION" value="true" />
     </context>
   </template>
-  <template name="prcon" value="/** No-arg constructor used for serialization only. */&#10;@Deprecated&#10;@SuppressWarnings(&quot;unused&quot;)&#10;private $CLASS$() {}" description="private constructor" toReformat="false" toShortenFQNames="true">
-    <variable name="CLASS" expression="className()" defaultValue="" alwaysStopAt="true" />
+  <template name="sh" value="/***************************************************************************&#10; *&#10; * $text$&#10; *&#10; **************************************************************************/" description="Section Header" toReformat="false" toShortenFQNames="true">
+    <variable name="text" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_DECLARATION" value="true" />
-    </context>
-  </template>
-  <template name="log" value="/** Logger */&#10;private static final net.compusult.wes.core.logging.CSLTLogger LOG = CSLTLogger.getLogger($CLASS$.class); " description="logger definition" toReformat="false" toShortenFQNames="true">
-    <variable name="CLASS" expression="className()" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_DECLARATION" value="true" />
-    </context>
-  </template>
-  <template name="rne" value="net.compusult.wes.restricted.util.ObjectHelper.verifyNotEmpty($VAR$, &quot;$VAR$&quot;)" description="require non-empty" toReformat="false" toShortenFQNames="true">
-    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_EXPRESSION" value="true" />
-      <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
   <template name="oncommit" value="if ($conn$ instanceof net.compusult.wes.core.db.HasCommitHandlers) {&#10;    ((net.compusult.wes.core.db.HasCommitHandlers) conn).addOnCommitHandler(() -&gt; {&#10;&#9;&#9;&#9;$text$&#10;    }, $runOnce$);&#10;} else {&#10;&#9;if ($conn$.getAutoCommit()) {&#10;&#9;&#9;$text$&#10;&#9;}&#10;}" description="HasCommitHandlers" toReformat="false" toShortenFQNames="true">
@@ -45,19 +21,10 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="equals" value="java.util.Objects.equals($var$, other.$var$)" description="isEqual" toReformat="false" toShortenFQNames="true">
-    <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="prcon" value="/** No-arg constructor used for serialization only. */&#10;@Deprecated&#10;@SuppressWarnings(&quot;unused&quot;)&#10;private $CLASS$() {}" description="private constructor" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS" expression="className()" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="JAVA_EXPRESSION" value="true" />
-    </context>
-  </template>
-  <template name="note" value="/* &#10; * cbabstock - $date$ - $note$ &#10; */" description="Comment with datestamp and username" toReformat="false" toShortenFQNames="true">
-    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="false" />
-    <variable name="note" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_COMMENT" value="true" />
       <option name="JAVA_DECLARATION" value="true" />
-      <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
 </templateSet>

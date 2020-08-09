@@ -1,29 +1,144 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
+      <component name="CopyrightManager">
+        <copyright>
+          <option name="myName" value="MIT" />
+          <option name="notice" value="The MIT License (MIT)&#10;&#10;Copyright (c) &amp;#36;today.year Sarah Skanes&#10;&#10;Permission is hereby granted, free of charge, to any person obtaining a copy&#10;of this software and associated documentation files (the &quot;Software&quot;), to deal&#10;in the Software without restriction, including without limitation the rights&#10;to use, copy, modify, merge, publish, distribute, sublicense, and/or sell&#10;copies of the Software, and to permit persons to whom the Software is&#10;furnished to do so, subject to the following conditions:&#10;&#10;The above copyright notice and this permission notice shall be included in all&#10;copies or substantial portions of the Software.&#10;&#10;THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR&#10;IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,&#10;FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE&#10;AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER&#10;LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,&#10;OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE&#10;SOFTWARE." />
+        </copyright>
+        <module2copyright>
+          <element module="All" copyright="MIT" />
+        </module2copyright>
+      </component>
+      <component name="Encoding">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
       <component name="GradleLocalSettings">
         <option name="modificationStamps">
           <map>
-            <entry key="D:\Projects\!personal/mylittlebooru" value="4391836473095" />
-            <entry key="D:\Projects\!personal/recipebook" value="7350278251993" />
-            <entry key="C:/dev/Projects/wes/marker_type_importer" value="2943053298449" />
-            <entry key="C:/dev/Projects/wes/trunk" value="2969857078540" />
+            <entry key="Q:/Cloud Storage/Google Drive/!Class Work/2015-02 Winter/COMP 3718/repo3718" value="2910378558773" />
+            <entry key="Q:/SkyDrive/Software Development/Projects/ControlsFX 2.2" value="8576398918025" />
+            <entry key="Q:/SkyDrive/Software Development/Projects/FinancialPlanner" value="2865978212784" />
+            <entry key="Q:/SkyDrive/Software Development/Projects/JVMLibraries" value="2863297527460" />
+            <entry key="Q:/SkyDrive/Software Development/Projects/NickDB" value="1431639218063" />
+            <entry key="Q:/SkyDrive/Software Development/Projects/controlsfx" value="8599166196396" />
+            <entry key="Q:/SkyDrive/Software Development/Projects/controlsfx8" value="8596060741681" />
+            <entry key="Q:/Software Development/007 Projects/3rd Party/zxing-android-embedded" value="2967312298169" />
+            <entry key="Q:/Software Development/007 Projects/Java/000 Web Applications/MyLittleBooru" value="2919117766727" />
+            <entry key="Q:/Software Development/007 Projects/Java/000 Web Applications/mylittlebooru" value="5843698466046" />
+            <entry key="Q:/Software Development/007 Projects/Java/FinancialPlanner_v2" value="2988372015107" />
+            <entry key="Q:/Software Development/007 Projects/Java/MoopMediaManager" value="2901967949089" />
+            <entry key="Q:/Software Development/007 Projects/RecipeBook_v2" value="2939136262912" />
+            <entry key="Q:/Software Development/007 Projects/code-drop" value="2907484357494" />
+            <entry key="Q:/Software Development/007 Projects/controlsfx" value="8599186915332" />
+            <entry key="Q:/Software Development/007 Projects/controlsfx-2" value="8636487301031" />
+            <entry key="Q:/Software Development/007 Projects/teamh" value="2909955297700" />
+            <entry key="Q:/Software Development/007 Projects/teamh-2" value="2910301316418" />
+            <entry key="Q:/Software Development/007 Projects/teamh-3" value="2910305605867" />
+            <entry key="Q:/Software Development/007 Projects/teamh-4" value="2911430673439" />
           </map>
         </option>
-        <option name="externalProjectsViewState">
-          <projects_view />
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/Documents/!Development/mylittlebooru" value="PREVIEW" />
+          </map>
         </option>
       </component>
-      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_3" />
+      <component name="MarkdownProjectSettings" wasCopied="true">
+        <PreviewSettings splitEditorLayout="SPLIT" splitEditorPreview="PREVIEW" useGrayscaleRendering="false" zoomFactor="1.0" maxImageWidth="0" showGitHubPageIfSynced="false" allowBrowsingInPreview="false" synchronizePreviewPosition="true" highlightPreviewType="NONE" highlightFadeOut="5" highlightOnTyping="true" synchronizeSourcePosition="true" verticallyAlignSourceAndPreviewSyncPosition="true" showSearchHighlightsInPreview="false" showSelectionInPreview="true" openRemoteLinks="true" replaceUnicodeEmoji="false" lastLayoutSetsDefault="false">
+          <PanelProvider>
+            <provider providerId="com.vladsch.idea.multimarkdown.editor.swing.html.panel" providerName="Default - Swing" />
+          </PanelProvider>
+        </PreviewSettings>
+        <ParserSettings gitHubSyntaxChange="false" emojiShortcuts="1" emojiImages="0">
+          <PegdownExtensions>
+            <option name="ABBREVIATIONS" value="false" />
+            <option name="ANCHORLINKS" value="true" />
+            <option name="ASIDE" value="false" />
+            <option name="ATXHEADERSPACE" value="true" />
+            <option name="AUTOLINKS" value="true" />
+            <option name="DEFINITIONS" value="false" />
+            <option name="DEFINITION_BREAK_DOUBLE_BLANK_LINE" value="false" />
+            <option name="FENCED_CODE_BLOCKS" value="true" />
+            <option name="FOOTNOTES" value="false" />
+            <option name="HARDWRAPS" value="false" />
+            <option name="HTML_DEEP_PARSER" value="false" />
+            <option name="INSERTED" value="false" />
+            <option name="QUOTES" value="false" />
+            <option name="RELAXEDHRULES" value="true" />
+            <option name="SMARTS" value="false" />
+            <option name="STRIKETHROUGH" value="true" />
+            <option name="SUBSCRIPT" value="false" />
+            <option name="SUPERSCRIPT" value="false" />
+            <option name="SUPPRESS_HTML_BLOCKS" value="false" />
+            <option name="SUPPRESS_INLINE_HTML" value="false" />
+            <option name="TABLES" value="true" />
+            <option name="TASKLISTITEMS" value="true" />
+            <option name="TOC" value="false" />
+            <option name="WIKILINKS" value="true" />
+          </PegdownExtensions>
+          <ParserOptions>
+            <option name="ADMONITION_EXT" value="false" />
+            <option name="ATTRIBUTES_EXT" value="false" />
+            <option name="COMMONMARK_LISTS" value="true" />
+            <option name="DUMMY" value="false" />
+            <option name="EMOJI_SHORTCUTS" value="true" />
+            <option name="ENUMERATED_REFERENCES_EXT" value="false" />
+            <option name="FLEXMARK_FRONT_MATTER" value="false" />
+            <option name="GFM_LOOSE_BLANK_LINE_AFTER_ITEM_PARA" value="false" />
+            <option name="GFM_TABLE_RENDERING" value="true" />
+            <option name="GITBOOK_URL_ENCODING" value="false" />
+            <option name="GITHUB_LISTS" value="false" />
+            <option name="GITHUB_WIKI_LINKS" value="true" />
+            <option name="GITLAB_EXT" value="false" />
+            <option name="GITLAB_MATH_EXT" value="false" />
+            <option name="GITLAB_MERMAID_EXT" value="false" />
+            <option name="HEADER_ID_NO_DUPED_DASHES" value="false" />
+            <option name="JEKYLL_FRONT_MATTER" value="false" />
+            <option name="MACROS_EXT" value="false" />
+            <option name="NO_TEXT_ATTRIBUTES" value="false" />
+            <option name="PARSE_HTML_ANCHOR_ID" value="false" />
+            <option name="SIM_TOC_BLANK_LINE_SPACER" value="true" />
+          </ParserOptions>
+        </ParserSettings>
+        <HtmlSettings headerTopEnabled="false" headerBottomEnabled="false" bodyTopEnabled="false" bodyBottomEnabled="false" embedUrlContent="false" addPageHeader="true" embedImages="false" embedHttpImages="false" imageUriSerials="false" addDocTypeHtml="true">
+          <GeneratorProvider>
+            <provider providerId="com.vladsch.idea.multimarkdown.editor.swing.html.generator" providerName="Default Swing HTML Generator" />
+          </GeneratorProvider>
+          <headerTop />
+          <headerBottom />
+          <bodyTop />
+          <bodyBottom />
+        </HtmlSettings>
+        <CssSettings previewScheme="UI_SCHEME" cssUri="" isCssUriEnabled="false" isCssUriSerial="true" isCssTextEnabled="false" isDynamicPageWidth="true">
+          <StylesheetProvider>
+            <provider providerId="com.vladsch.idea.multimarkdown.editor.swing.html.css" providerName="Default Swing Stylesheet" />
+          </StylesheetProvider>
+          <ScriptProviders />
+          <cssText />
+          <cssUriHistory />
+        </CssSettings>
+        <HtmlExportSettings updateOnSave="false" parentDir="" targetDir="" cssDir="" scriptDir="" plainHtml="false" imageDir="" copyLinkedImages="false" imageUniquifyType="0" targetExt="" useTargetExt="false" noCssNoScripts="false" linkToExportedHtml="true" exportOnSettingsChange="true" regenerateOnProjectOpen="false" linkFormatType="HTTP_ABSOLUTE" />
+        <LinkMapSettings>
+          <textMaps />
+        </LinkMapSettings>
+      </component>
+      <component name="NodePackageJsonFileManager">
+        <packageJsonPaths />
+      </component>
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_11" />
       <component name="PropertiesComponent">
-        <property name="last_opened_file_path" value="C:/dev/Projects/pods/trunk" />
-        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+        <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+        <property name="last_opened_file_path" value="Q:/SkyDrive/Software Development/Projects" />
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
         <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-        <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
-        <property name="settings.editor.splitter.proportion" value="0.2" />
+        <property name="project.structure.last.edited" value="SDKs" />
+        <property name="project.structure.proportion" value="0.0" />
+        <property name="project.structure.side.proportion" value="0.2" />
+        <property name="settings.editor.selected.configurable" value="copyright" />
       </component>
       <component name="RunManager">
-        <configuration default="true" type="Applet">
+        <configuration default="true" type="Applet" factoryName="Applet">
           <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
           <method v="2">
             <option name="Make" enabled="true" />
@@ -35,33 +150,93 @@
             <option name="Make" enabled="true" />
           </method>
         </configuration>
-        <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+        <configuration default="true" type="JUnit" factoryName="JUnit">
+          <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+        <configuration default="true" type="TestNG" factoryName="TestNG">
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <properties />
+          <listeners />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+        <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
           <module name="" />
           <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
           <option name="PROGRAM_PARAMETERS" />
-          <predefined_log_file enabled="true" id="idea.log" />
+          <predefined_log_file id="idea.log" enabled="true" />
           <method v="2">
             <option name="Make" enabled="true" />
           </method>
         </configuration>
       </component>
-      <component name="SvnConfiguration" myUseAcceleration="nothing">
-        <configuration>C:\Users\cbabstock\AppData\Roaming\Subversion</configuration>
-        <option name="sshConnectionType" value="PASSWORD" />
-        <option name="sshUserName" value="cbabstock" />
-      </component>
       <component name="VcsContentAnnotationSettings">
         <option name="myLimit" value="2678400000" />
       </component>
+      <component name="hg4idea.settings">
+        <option name="CHECK_INCOMING_OUTGOING" value="false" />
+        <option name="ROOT_SYNC" value="DONT_SYNC" />
+      </component>
       <component name="masterDetails">
         <states>
-          <state key="ProjectJDKs.UI">
+          <state key="Copyright.UI">
             <settings>
-              <last-edited>1.8_112</last-edited>
+              <last-edited>MIT</last-edited>
               <splitter-proportions>
                 <option name="proportions">
                   <list>
-                    <option value="0.20272109" />
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="GlobalLibrariesConfigurable.UI">
+            <settings>
+              <last-edited>adsbygoogle</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="JdkListConfigurable.UI">
+            <settings>
+              <last-edited>13</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>11</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.20000002" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectLibrariesConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
                   </list>
                 </option>
               </splitter-proportions>

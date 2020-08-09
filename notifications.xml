@@ -1,7 +1,6 @@
 <application>
   <component name="NotificationConfiguration">
-    <notification groupId="Branch Context group" displayType="NONE" />
-    <notification groupId="Database detector" displayType="NONE" />
+    <notification groupId="Android XML code style notification" displayType="NONE" shouldLog="false" />
     <notification groupId="Unindexed maven repositories gradle detection" displayType="NONE" shouldLog="false" />
   </component>
 </application>

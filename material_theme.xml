@@ -1,14 +1,10 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="compactMenus" value="true" />
-    <option name="isCompactMenus" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
-    <option name="rightTreeIndent" value="6" />
-    <option name="settingsSelectedTab" value="2" />
     <option name="accentColor" value="ff9800" />
     <option name="selectedTheme" value="DARKER" />
-    <option name="userId" value="-65c902b5:169c45d5e2a:-8000" />
+    <option name="userId" value="-2d52eb28:16ae6afa2c2:-8000" />
     <option name="version" value="5.2.0" />
   </component>
 </application>

@@ -39,6 +39,12 @@
           <presentable-name>openSUSE Leap 15</presentable-name>
         </descriptor>
         <descriptor>
+          <id>OPENSUSE15-1</id>
+          <microsoft-id>openSUSE-Leap-15-1</microsoft-id>
+          <executable-path>openSUSE-Leap-15-1.exe</executable-path>
+          <presentable-name>openSUSE Leap 15.1</presentable-name>
+        </descriptor>
+        <descriptor>
           <id>UBUNTU</id>
           <microsoft-id>Ubuntu</microsoft-id>
           <executable-path>ubuntu.exe</executable-path>
@@ -81,10 +87,10 @@
           <presentable-name>Arch Linux</presentable-name>
         </descriptor>
         <descriptor>
-          <id>OPENSUSE15-1</id>
-          <microsoft-id>openSUSE-Leap-15-1</microsoft-id>
-          <executable-path>openSUSE-Leap-15-1.exe</executable-path>
-          <presentable-name>openSUSE Leap 15.1</presentable-name>
+          <id>UBUNTU2004</id>
+          <microsoft-id>Ubuntu-20.04</microsoft-id>
+          <executable-path>ubuntu2004.exe</executable-path>
+          <presentable-name>Ubuntu 20.04</presentable-name>
         </descriptor>
       </set>
     </descriptors>
