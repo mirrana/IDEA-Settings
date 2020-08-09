@@ -1,9 +1,0 @@
-<application>
-  <component name="IntentionManagerSettings">
-    <ignoreAction name="Java/Declaration/Split Declaration" />
-    <ignoreAction name="Java/Annotations/Add Annotation" />
-    <ignoreAction name="Java/Try Statements/Replace Catch Section with Throws Declaration" />
-    <ignoreAction name="Language Injection/Inject language or reference" />
-    <ignoreAction name="Java/Declaration/Generate missed test methods" />
-  </component>
-</application>
