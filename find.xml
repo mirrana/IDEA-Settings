@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!12.5.0-5---12.5.0-6.sql" />
+    <option name="FILE_MASK" value="*.sql" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -26,7 +26,7 @@
     <mask>*java</mask>
     <mask>*xsd</mask>
     <mask>*.xsd</mask>
-    <mask>*.sql</mask>
     <mask>!12.5.0-5---12.5.0-6.sql</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
