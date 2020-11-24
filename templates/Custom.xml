@@ -60,4 +60,9 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="testmethod" value="public static void main(String[] args) {&#10;    net.compusult.wes.AppContextUtil.setupContext();&#10;    try (Connection conn = net.compusult.wes.core.db.ConnectionFactory.getWebDBConnection()) {&#10;        SyncChangeDAO.getInstance().cacheEnumerations(conn);&#10;        StatusDao.getInstance();&#10;        PriorityDao.getInstance();&#10;        SecurityMarkingDao.getInstance();&#10;        &#10;        &#10;    } catch (Exception e) {&#10;        e.printStackTrace();&#10;    } finally {&#10;        net.compusult.wes.AppContextUtil.destroyContext();&#10;        System.exit(0);&#10;    }&#10;}" description="Test Method" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
 </templateSet>
