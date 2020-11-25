@@ -3,7 +3,6 @@
     <option name="customScope" value="Requests did not get filtered" />
     <option name="defaultScopeName" value="Requests did not get filtered" />
     <option name="SEARCH_SCOPE" value="Requests did not get filtered" />
-    <option name="FILE_MASK" value="*.sql" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
