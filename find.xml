@@ -21,11 +21,11 @@
     <mask>*.java, *.sql</mask>
     <mask>!*.java</mask>
     <mask>*</mask>
-    <mask>*.java</mask>
     <mask>*java</mask>
     <mask>*xsd</mask>
     <mask>*.xsd</mask>
     <mask>!12.5.0-5---12.5.0-6.sql</mask>
     <mask>*.sql</mask>
+    <mask>*.java</mask>
   </component>
 </application>
