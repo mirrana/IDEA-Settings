@@ -3,7 +3,6 @@
     <option name="customScope" value="99999-1120 Issues with WES Annotations interaction with portfolios    - Portfolio Metadata not queried for annotations" />
     <option name="defaultScopeName" value="99999-1120 Issues with WES Annotations interaction with portfolios    - Portfolio Metadata not queried for annotations" />
     <option name="SEARCH_SCOPE" value="99999-1120 Issues with WES Annotations interaction with portfolios    - Portfolio Metadata not queried for annotations" />
-    <option name="FILE_MASK" value="*.java" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -27,7 +26,7 @@
     <mask>*.xsd</mask>
     <mask>!12.5.0-5---12.5.0-6.sql</mask>
     <mask>*.js==</mask>
-    <mask>*.sql</mask>
     <mask>*.java</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
